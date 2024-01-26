@@ -91,6 +91,7 @@ const (
 	walkingSpeedHeightMultiplier    = 0.029 // множитель роста.
 )
 
+// test
 // WalkingSpentCalories возвращает количество потраченных калорий при ходьбе.
 //
 // Параметры:
